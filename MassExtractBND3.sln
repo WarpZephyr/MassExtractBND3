@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MassExtractBND3", "MassExtractBND3\MassExtractBND3.csproj", "{16136EB4-5FEE-461A-B046-11ED5FC4C5CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoulsFormats", "..\SoulsFormats\SoulsFormats\SoulsFormats.csproj", "{33F38814-52D6-4612-8E98-50F0D88788F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16136EB4-5FEE-461A-B046-11ED5FC4C5CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16136EB4-5FEE-461A-B046-11ED5FC4C5CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16136EB4-5FEE-461A-B046-11ED5FC4C5CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16136EB4-5FEE-461A-B046-11ED5FC4C5CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F38814-52D6-4612-8E98-50F0D88788F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F38814-52D6-4612-8E98-50F0D88788F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F38814-52D6-4612-8E98-50F0D88788F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F38814-52D6-4612-8E98-50F0D88788F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59289A70-4816-4914-A904-1FEA6FB7DECA}
+	EndGlobalSection
+EndGlobal
